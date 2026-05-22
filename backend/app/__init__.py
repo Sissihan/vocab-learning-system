@@ -1,0 +1,1 @@
+"""VocabFusion backend application."""
